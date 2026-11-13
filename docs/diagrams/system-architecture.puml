@@ -1,0 +1,19 @@
+@startuml
+skinparam backgroundColor #FFFFFF
+skinparam roundcorner 10
+skinparam monochrome false
+
+package "DAA Architecture" {
+  [Input Generator] --> [Algorithms Core]
+  package "Algorithms Core" {
+    [Divide and Conquer]
+    [Greedy Method]
+    [Dynamic Programming]
+    [Backtracking]
+    [Branch and Bound]
+  }
+  [Algorithms Core] --> [Performance Telemetry]
+  [Performance Telemetry] --> [results.csv]
+  [Performance Telemetry] --> [Screenshots & Graphs]
+}
+@enduml

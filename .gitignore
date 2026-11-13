@@ -1,2 +1,22 @@
+# Binaries and Object Files
 *.exe
 *.out
+*.o
+*.obj
+*.so
+*.dylib
+*.dSYM/
+bin/
+
+# Compiled Lab Executables
+main
+run.log
+*.log
+
+# IDE & Editor Artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
