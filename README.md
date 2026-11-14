@@ -1,4 +1,4 @@
-# IC-2K-19-DAA-LAB-CHINDAN-KUSHWAHA
+# IC-2K23-19-DAA-LAB-CHINDAN-KUSHWAHA
 
 **IC-709 B | Design & Analysis of Algorithms Laboratory**  
 *Master of Computer Applications (MCA) — International Institute of Professional Studies (IIPS), Devi Ahilya Vishwavidyalaya, Indore (DAVV)*
